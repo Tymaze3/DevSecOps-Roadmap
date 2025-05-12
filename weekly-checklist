@@ -1,0 +1,49 @@
+# DevSecOps / Cloud Security Engineer - 12 Week Certification & Skills Checklist
+
+## Phase 1: Foundation (Weeks 1-4)
+- [ ] Week 1: AWS Cloud Practitioner crash course (FreeCodeCamp or AWS SkillBuilder)
+- [ ] Week 1: Setup AWS Free Tier, create and delete EC2 instance
+- [ ] Week 2: Start AWS Solutions Architect Associate (A Cloud Guru / Stephane Maarek)
+- [ ] Week 2: Learn IAM, EC2, S3, VPC, RDS basics
+- [ ] Week 3: Practice 25-50 questions from ExamTopics daily
+- [ ] Week 3: Start learning Python basics (Automate the Boring Stuff / Codecademy)
+- [ ] Week 4: Take AWS SAA practice exam
+- [ ] Week 4: Launch Python project (log parser, EC2 automation script)
+
+## Phase 2: Core Engineering (Weeks 5-8)
+- [ ] Week 5: Study Terraform (FreeCodeCamp / KodeKloud basics)
+- [ ] Week 5: Deploy infrastructure using Terraform in AWS
+- [ ] Week 6: Dive into Kubernetes (K3s or Minikube local lab)
+- [ ] Week 6: Complete basic kubectl lab, deploy sample app
+- [ ] Week 7: AWS Security Specialty topics — KMS, CloudTrail, GuardDuty
+- [ ] Week 7: Set up CloudTrail logging and alerting in AWS
+- [ ] Week 8: Start DevSecOps GitHub project (IaC baseline with K8s hardening)
+- [ ] Week 8: Study for Security Specialty Exam (videos + practice)
+
+## Phase 3: Monetization & Launch (Weeks 9-12)
+- [ ] Week 9: Finalize resume + LinkedIn (highlight AWS + security stack)
+- [ ] Week 9: Record 1st YouTube or blog post about your journey
+- [ ] Week 10: Apply to roles or launch consulting page (for CMMC/NIST)
+- [ ] Week 10: Build and publish SaaS MVP or security toolkit
+- [ ] Week 11: Review & master weakest cert topics, retake practice tests
+- [ ] Week 12: Schedule and take AWS Security Specialty exam
+- [ ] Week 12: Reflect, document, and publish your learning roadmap
+
+---
+
+# Repo Structure Ideas
+
+## Repo 1: millionaire-path/
+- README.md
+- roadmap.md
+- trading-strategy.md
+- cashflow-plan.md
+- passive-income-tracker.xlsx
+
+## Repo 2: devsecops-cloudsec-path/
+- README.md
+- weekly-checklist.md
+- aws-projects/
+- terraform-scripts/
+- k8s-hardening/
+- security-automation/
